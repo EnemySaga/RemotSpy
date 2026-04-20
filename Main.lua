@@ -3,8 +3,8 @@ local Configuration = {
 	UseWorkspace = false, 
 	NoActors = false,
 	FolderName = "Sigma Spy",
-	RepoUrl = [[http://c1.play2go.cloud:22023/raw/Sigma-Spy]],
-	ParserUrl = [[http://c1.play2go.cloud:22023/raw/Roblox-parser/dist/Main.luau]],
+	RepoUrl = [[https://raw.githubusercontent.com/EnemySaga/RemotSpy/refs/heads/main]],
+	ParserUrl = [[https://raw.githubusercontent.com/IEnemyFiles/Roblox-Parser/refs/heads/main/Main.luau]],
     Directory = "Sigma Spy"
 }
 
